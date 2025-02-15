@@ -24,7 +24,7 @@ Using Latent Dirichlet Allocation (LDA), we identified 8 distinct topics. The di
 
 ![Figure 3: Topic Distribution Bar Chart](figures/topic_distribution.png)
 
-- ![Figure 4: Average Topic Distribution Across Documents](figures/average_topic_distribution.png)
+![Figure 4: Average Topic Distribution Across Documents](figures/average_topic_distribution.png)
 
 ### 2.2 Detailed Topic Analysis
 
