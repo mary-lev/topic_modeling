@@ -16,7 +16,7 @@ The corpus consists of 156 memoir texts in Russian language, containing autobiog
 
 ### 1.2 Document Length Distribution by Topic
 
-![Figure 2: Box Plot of Document Lengths by Topic](./figures/document_length_distribution_by_dominant_topic.png)
+![Figure 2: Box Plot of Document Lengths by Topic](figures/document_length_distribution.png)
 
 The box plot reveals that different types of narratives tend toward different lengths, with military memoirs and family histories typically being longer than personal correspondence or professional accounts.
 
@@ -26,7 +26,7 @@ Using Latent Dirichlet Allocation (LDA), we identified 8 distinct topics. The di
 
 ### 2.1 Topic Distribution Overview
 
-![Figure 3: Topic Distribution Bar Chart](/figures/topic_distribution.png)
+![Figure 3: Topic Distribution Bar Chart](figures/topic_distribution.png)
 
 Military/Navy Life: 7 documents
 Family/Childhood: 41
